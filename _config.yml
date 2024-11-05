@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Official Webpage of the International Astronomical Union (IAU) Commission B1.  
   The primary focus of this commission is Computational Astrophysics and is a sub-division of 
   IAU Division B :Facilities, Technologies and Data Science.  
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/index" # the subpath of your site, e.g. /blog
 url: "https://iaub1commission.github.io/index/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  IAUB1Commission
 
