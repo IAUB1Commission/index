@@ -3,9 +3,9 @@ layout: home
 ---
 
 **Simulation Image of the Week**
-![SimImg](/images/bh_collision_sim.jpg)
-Computer simulation of colliding black holes. Credit: SXS Lensing
-
+![SimImg](/assets/images/GlobularClusterFormationFujii2024_1.jpg)
+Caption: Numerical simulation of globular-cluster formation in giant molecular cloud.
+Credit: [Michiko Fujii, Takaaki Takeda; Fujii et. al. 2024](https://ui.adsabs.harvard.edu/abs/2024Sci...384.1488F/abstract)
 
 
 

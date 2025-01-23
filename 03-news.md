@@ -9,11 +9,15 @@ position: 4
 <span style="color: blue;"> FY 2024 </span>
 
 ---
-1. *February 27, 2024* : <u>IAU B1 News Letter</u>: [Newsletter No. 19]()
+
+1. *February 27, 2024* : <u>IAU B1 News Letter</u>: [Newsletter No. 19](https://drive.google.com/file/d/16dNgeKdJpo0KBie8FR1XXzO-fLvVUVaX/view?usp=sharing)
 
 2. *February 9, 2024* : **New Horizons at the Interface between Computational Astrophysics and Big Data (XXXII IAU GA)** 
 <u>6-8 August, 2024 Cape Town South Africa</u> 
 [Webpage](https://idia.ac.za/bdh2024/)
+
+3. <mark>NEW!</mark> *November 20, 2024* : <u>IAU B1 News Letter</u>: [Newsletter No. 20](https://drive.google.com/file/d/101LAnYayH1a1M7v8QQ612tm_3W5HrBiX/view?usp=share_link)
+
 
 <span style="color: blue;"> FY 2023 </span>
 

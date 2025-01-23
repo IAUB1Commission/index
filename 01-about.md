@@ -5,7 +5,7 @@ permalink: /about/
 position: 1
 ---
 
-![Homepage Banner](/images/plasma-1.jpg)
+![Homepage Banner](/assets/images/plasma-1.jpg)
 
 The commission B1 "Computational Astrophysics" stimulates and coordinates community effort on improving our understanding of astrophysical phenomena by means of computing.
 
