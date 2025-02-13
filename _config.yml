@@ -42,6 +42,7 @@ theme: minima
 # their entries' file path in the `include:` list.
 #
 # exclude:
+#   - /index/chaica6.md 
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
