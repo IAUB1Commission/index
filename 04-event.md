@@ -9,7 +9,7 @@ position: 3
 
 # Upcoming Events 
 
-1. <mark>NEW!</mark> **Challenges and Innovations in Computational Astrophysics [ChaICA - VI]** [Details here](/index/chaica6/)
+1. <mark>NEW!</mark> **Challenges and Innovations in Computational Astrophysics [ChaICA - VI]** <a href="{{ site.baseurl }}/chaica6">Details Here</a>
 
 
 # IAU Symposia / Focus Meeting
