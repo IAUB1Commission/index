@@ -2,7 +2,6 @@
 layout: page
 title: ChaICA - 6
 permalink: /chaica6/
-hidden: true
 ---
 
 **Challenges and Innovations in Computational Astrophysics VI**
