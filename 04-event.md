@@ -9,7 +9,8 @@ position: 3
 
 # Upcoming Events 
 
-1. <mark>NEW!</mark> **Challenges and Innovations in Computational Astrophysics [ChaICA - VI]** [Details Here](/index/chaica6/)
+1. <mark>NEW!</mark> *September 29 - October 2, 2025*  
+**Challenges and Innovations in Computational Astrophysics [ChaICA - VI]** [Details Here]({{ site.baseurl }}/chaica6)
 
 
 # IAU Symposia / Focus Meeting
