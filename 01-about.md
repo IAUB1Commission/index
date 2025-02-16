@@ -2,7 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-position: 1
+sidebar:
+  nav: "main"  # This enables the sidebar for this page
 ---
 
 ![Homepage Banner](/assets/images/plasma-1.jpg)

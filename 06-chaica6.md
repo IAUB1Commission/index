@@ -2,7 +2,8 @@
 layout: page
 title: ChaICA - 6
 permalink: /chaica6/
-position: 6
+sidebar:
+  nav: "main"  # This enables the sidebar for this page
 ---
 
 **Challenges and Innovations in Computational Astrophysics VI**

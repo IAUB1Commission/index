@@ -5,7 +5,8 @@
 layout: page
 title: Organizing Commiitee
 permalink : /orgcommittee/
-position: 2
+sidebar:
+  nav: "main"  # This enables the sidebar for this page
 ---
 
 # Here are the members of the organizing committee:

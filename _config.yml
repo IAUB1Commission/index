@@ -21,17 +21,19 @@
 title: IAU Commission B1 - Computational Astrophysics
 email: iau.commission.b1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Official Webpage of the International Astronomical Union (IAU) Commission B1.  
-  The primary focus of this commission is Computational Astrophysics and is a sub-division of 
-  IAU Division B :Facilities, Technologies and Data Science.  
+  Official Webpage of the International Astronomical Union (IAU) Commission B1.    
 baseurl: "/index" # the subpath of your site, e.g. /blog
 url: "https://iaub1commission.github.io/index/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  IAUB1Commission
 
 # Build settings
-theme: minima
-#plugins:
-#  - jekyll-feed
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+sidebar:
+  nav: "main"  
 
 # Exclude from processing.
 # The following items will not be processed, by default.

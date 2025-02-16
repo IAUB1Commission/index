@@ -1,8 +1,9 @@
 ---
 layout: page
-title: FAQ
+title: Frequently Asked Questions
 permalink: /faqs/
-position: 7
+sidebar:
+  nav: "main"  # This enables the sidebar for this page
 ---
 
 

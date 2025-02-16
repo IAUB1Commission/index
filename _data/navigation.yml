@@ -1,0 +1,18 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Organization Committee"
+    url: /orgcommittee/
+  - title: "News"
+    url: /news/
+  - title: "Events"
+    url: /events/
+  - title: "Resources"
+    url: /resources/
+  - title: "ChaICA-6"
+    url: /chaica6/
+  - title: "FAQs"
+    url: /faqs/
+

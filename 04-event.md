@@ -2,7 +2,8 @@
 layout: page
 title: Events
 permalink: /events/
-position: 3
+sidebar:
+  nav: "main"  # This enables the sidebar for this page
 ---
 
 ## IAU Commission B1 Events ##

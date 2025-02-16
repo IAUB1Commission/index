@@ -2,7 +2,8 @@
 layout: page
 title: Useful Resources
 permalink: /resources/
-position: 5
+sidebar:
+  nav: "main"  # This enables the sidebar for this page
 ---
 
 **<u>List of commonly used public astrophysical simulation codes</u>**

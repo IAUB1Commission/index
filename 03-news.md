@@ -2,7 +2,8 @@
 layout: page
 title: News and Newsletter
 permalink: /news/
-position: 4
+sidebar:
+  nav: "main"  # This enables the sidebar for this page
 ---
 
 
