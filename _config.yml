@@ -35,6 +35,10 @@ plugins:
 sidebar:
   nav: "main"  
 
+# Set container width
+minimal_mistakes_skin: "default"
+width: "1000px"  # Adjust this value to your preferred width
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
