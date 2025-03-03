@@ -52,11 +52,14 @@ June 30, 2025 : *Last date for Registration*
 
 **Registeration:**
 
-To be updated
+To be updated.
 
 **About the Venue:**
 
-Indian Institute of Science Education and Research (IISER) Mohali is located in Northern India.  The closest airport is Chandigarh (distance 10km) and there is excellent connectivity with New Delhi (distance 250 km) by Road, Rail and Air.  
+Indian Institute of Science Education and Research (IISER) Mohali is located in Northern India.  
+The closest airport is Chandigarh (distance 10km) and there is excellent connectivity with New Delhi (distance 250 km) by 
+Road, Rail and Air.  
 
-IISER Mohali, like other IISERs is a university with education and research in basic sciences as the primary focus. 
+IISER Mohali, like other IISERs is a university with education and 
+research in basic sciences as the primary focus. 
 
