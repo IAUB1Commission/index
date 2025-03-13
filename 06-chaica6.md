@@ -36,6 +36,14 @@ This is the 6th edition of the ChaICA series of meetings on computational astrop
 
 **Invited Speakers**
 
+1. Keiya Hirashima;	University of Tokyo,	Japan
+
+2. Hsi-Yu	Schive;	National Taiwan University,	Taiwan
+
+3. Prateek Sharma;	IISc, Bangalore	India
+
+4. Wladimir	Lyra;	New Mexico State University,	USA
+
 
 **Important Dates:**
 
@@ -56,10 +64,35 @@ To be updated.
 
 **About the Venue:**
 
-Indian Institute of Science Education and Research (IISER) Mohali is located in Northern India.  
-The closest airport is Chandigarh (distance 10km) and there is excellent connectivity with New Delhi (distance 250 km) by 
+Indian Institute of Science Education and Research (IISER) Mohali is located in Northern India.  The closest airport is Chandigarh (distance 10km) and there is excellent connectivity with New Delhi (distance 250 km) by 
 Road, Rail and Air.  
-
 IISER Mohali, like other IISERs is a university with education and 
-research in basic sciences as the primary focus. 
+research in basic sciences as the primary focus.
 
+*More details will be updated soon*
+
+**Scientific Organizing Committee**
+
+1. Michiko Fujii ; Co-Chair
+
+2. Jonathan Mackey; Co-Chair
+
+3. Bhargav Vaidya; Co-Chair
+
+4. Jasjeet Singh Bagla
+
+5. Jungyeon Cho 
+
+6. Pratika Dayal 
+
+7. Catherine Lovekin 
+
+8. Surajit Paul 
+
+9. Steven Rieder 
+
+10. Christian M. Boily
+
+**Local Organizing Committee**
+
+1. Jasjeet Singh Bagla (IISER Mohali); Chair
