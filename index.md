@@ -9,5 +9,5 @@ Credit: [Michiko Fujii, Takaaki Takeda; Fujii et. al. 2024](https://ui.adsabs.ha
 
 
 
-**ArXiv Papers of the week on Computational Astrophysics**
+**Upcoming Event [NEW] - ChaICA-6 Meeting** [Details Here]({{ site.baseurl }}/chaica6)
 
