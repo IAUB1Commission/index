@@ -44,6 +44,12 @@ This is the 6th edition of the ChaICA series of meetings on computational astrop
 
 4. Wladimir	Lyra;	New Mexico State University,	USA
 
+5. Daniela	Huppenkothen;	University of Amsterdam,	NL
+
+6. Stefanie	Walch-Gassner;	University of Cologne,	Germany
+
+7. Hanno	Rein;	University of Toronto,	Canada
+
 
 **Important Dates:**
 
