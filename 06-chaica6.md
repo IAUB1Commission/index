@@ -53,9 +53,9 @@ This is the 6th edition of the ChaICA series of meetings on computational astrop
 
 **Important Dates:**
 
-March 10, 2025 : *First Announcement*
+March 20, 2025 : *First Announcement*
 
-March 20, 2025 : *Registration and Abstract Submission Starts*
+March 30, 2025 : *Registration and Abstract Submission Starts*
 
 April 30, 2025 : *Abstract Submission Ends*
 
@@ -70,8 +70,8 @@ To be updated.
 
 **About the Venue:**
 
-Indian Institute of Science Education and Research (IISER) Mohali is located in Northern India.  The closest airport is Chandigarh (distance 10km) and there is excellent connectivity with New Delhi (distance 250 km) by 
-Road, Rail and Air.  
+Indian Institute of Science Education and Research (IISER) Mohali (https://www.iisermohali.ac.in) is located in Northern India.  
+The closest airport is Chandigarh (distance 10km) and there is excellent connectivity with New Delhi (distance 250 km) by Road, Rail and Air.  
 IISER Mohali, like other IISERs is a university with education and 
 research in basic sciences as the primary focus.
 
@@ -101,4 +101,14 @@ research in basic sciences as the primary focus.
 
 **Local Organizing Committee**
 
-1. Jasjeet Singh Bagla (IISER Mohali); Chair
+1. Jasjeet Singh Bagla; Chair
+
+2. Harvinder Kaur Jassal
+
+3. Kinjalk Lochan 
+
+4. Pankaj Kushwaha
+
+
+
+
