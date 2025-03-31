@@ -65,7 +65,7 @@ June 30, 2025 : *Last date for Registration*
 **Registeration:**
 
 You can register and submit your asbtract using the link below : 
-(https://forms.gle/Z31ZcpAkrjhhRG19A)
+[Register here](https://forms.gle/Z31ZcpAkrjhhRG19A)
 
 Instructions for registeration fee payments will be updated here. 
 
