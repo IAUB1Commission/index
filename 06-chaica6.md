@@ -40,14 +40,15 @@ This is the 6th edition of the ChaICA series of meetings on computational astrop
 
 2. Hsi-Yu	Schive;	National Taiwan University,	Taiwan
 
-3. Prateek Sharma;	IISc, Bangalore	India
+3. Prateek Sharma;	Indian Institute of Science, 	India
 
 4. Wladimir	Lyra;	New Mexico State University,	USA
 
+5. Jayanta Roy; National Centre for Radio Astrophysics;  India
 
 **Important Dates:**
 
-April 01, 2025 : *Registration and Abstract Submission Starts*
+March 30, 2025 : *Registration and Abstract Submission Starts*
 
 April 30, 2025 : *Abstract Submission Ends*
 
