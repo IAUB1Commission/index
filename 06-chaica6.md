@@ -46,6 +46,8 @@ This is the 6th edition of the ChaICA series of meetings on computational astrop
 
 5. Jayanta Roy; National Centre for Radio Astrophysics;  India
 
+6. Emily M. Boudreaux; Dartmouth College; USA
+
 **Important Dates:**
 
 March 30, 2025 : *Registration and Abstract Submission Starts*
