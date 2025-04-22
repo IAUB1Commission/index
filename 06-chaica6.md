@@ -48,6 +48,8 @@ This is the 6th edition of the ChaICA series of meetings on computational astrop
 
 6. Emily M. Boudreaux; Dartmouth College; USA
 
+7. Nishikant Khandai; NISER Bhubneshwar; India
+
 **Important Dates:**
 
 March 30, 2025 : *Registration and Abstract Submission Starts*
