@@ -54,7 +54,7 @@ This is the 6th edition of the ChaICA series of meetings on computational astrop
 
 March 30, 2025 : *Registration and Abstract Submission Starts*
 
-April 30, 2025 : *Abstract Submission Ends*
+May 10, 2025 : *Abstract Submission Ends*
 
 May 31, 2025 : *Selected Abstracts will be informed*
 
