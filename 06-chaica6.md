@@ -56,9 +56,9 @@ March 30, 2025 : *Registration and Abstract Submission Starts*
 
 May 10, 2025 : *Abstract Submission Ends*
 
-May 31, 2025 : *Selected Abstracts will be informed*
+June 25, 2025 : *Selected Abstracts will be informed*
 
-June 30, 2025 : *Last date for Registration*
+July 15, 2025 : *Last date for Registration*
 
 
 **Registeration:**
@@ -66,7 +66,20 @@ June 30, 2025 : *Last date for Registration*
 You can register and submit your asbtract using the link below : 
 [Register here](https://forms.gle/Z31ZcpAkrjhhRG19A)
 
-Instructions for registeration fee payments will be updated here. 
+**Fees**
+
+Participants from outside India:  USD 100 
+
+Student participants from outside India: USD 80
+
+Online Participation: USD 5 / INR 400
+
+Participants from India: INR 7000
+
+Student participants from India: INR 5000
+
+The fee covers registration material, tea/coffee, and all meals during Sep.29 - Oct.2, 2025
+and will not cover any accomodation charges.  
 
 **About the Venue:**
 
@@ -76,7 +89,14 @@ The closest airport is Chandigarh (distance 10km) and there is excellent connect
 IISER Mohali, like other IISERs is a university with education and 
 research in basic sciences as the primary focus.
 
-*More details will be updated soon*
+**Accommodation options:**
+*This will be updated with more details*
+
+Institute guest house:  Up to INR 1500 (~USD 18) per double room per day.
+
+Nearby Hotels: INR 5000 (~ USD 60) onwards per head per day. 
+  
+Institute Student Hostel Guest Rooms: Up to INR 800 (~USD 10) per double room per day.
 
 **Scientific Organizing Committee**
 
