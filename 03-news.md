@@ -10,7 +10,9 @@ sidebar:
 
 ---
 
-1. <mark>NEW!</mark> *April 1, 2025* : <u>IAU B1 News Letter</u>: [Newsletter No. 21](https://docs.google.com/document/d/1RRVF3yeeAGsO1saBBpnOgyd52xPptedjCAq6oxa53xg/edit?usp=sharing)
+1. <mark>NEW!</mark> <u>IAU B1 News Letter</u>: [Newsletter No. 22](https://drive.google.com/file/d/1lWgS1nsIR2RW7o4jvpvLlcmMv2LKWdRX/view?usp=sharing)
+
+2.  *April 1, 2025* : <u>IAU B1 News Letter</u>: [Newsletter No. 21](https://docs.google.com/document/d/1RRVF3yeeAGsO1saBBpnOgyd52xPptedjCAq6oxa53xg/edit?usp=sharing)
 
 
 <span style="color: blue;"> FY 2024 </span>
