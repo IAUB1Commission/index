@@ -58,13 +58,17 @@ May 10, 2025 : *Abstract Submission Ends*
 
 June 25, 2025 : *Selected Abstracts will be informed*
 
-July 15, 2025 : *Last date for Registration*
+July 30, 2025 : *Last date for Registration*
 
 
 **Registeration:**
 
 You can register and submit your asbtract using the link below : 
-[Register here](https://forms.gle/Z31ZcpAkrjhhRG19A)
+[Register here] **CLOSED**
+
+You can confirm your participation for the conference using the link below 
+along with payment of fees:
+[Register with Payment here](https://forms.gle/n89pBhoJtdzHrWe5A)
 
 **Fees**
 
@@ -91,6 +95,8 @@ research in basic sciences as the primary focus.
 
 **Accommodation options:**
 *This will be updated with more details*
+
+LOC Contact Email ID : astro@iisermohali.ac.in
 
 Institute guest house:  Up to INR 1500 (~USD 18) per double room per day.
 
