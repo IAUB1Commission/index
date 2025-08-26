@@ -93,8 +93,38 @@ The closest airport is Chandigarh (distance 10km) and there is excellent connect
 IISER Mohali, like other IISERs is a university with education and 
 research in basic sciences as the primary focus.
 
+**Travelling to IISER Mohali:**
+IISER Mohali is located on the outskirts of Mohali city in the district of Sahibzada Ajit Singh Nagar in the state of Punjab, India.  The accommodation for all participants will be arranged in the Visitor Hostel at IISER Mohali.  All academic sessions will also be scheduled in a meeting room in the visitor hostel.
+
+Location of Visitor Hostel, IISER Mohali: (https://maps.app.goo.gl/kLtq6SLBPA8wGqau6)
+
+*By Air:* 
+
+The nearest airport is Chandigarh (distance 10 km) with good connectivity to airports within India and a few airports in the Middle-East.  If you are coming from outside India then we recommend you to take a connecting flight from your landing station to Chandigarh.  There are many flights connecting Chandigarh with Delhi and Mumbai.  
+
+Website of Chandigarh airport: (https://chial.org)
+
+Route Map from Chandigarh Airport to IISER Mohali Guest House: (https://maps.app.goo.gl/HSDWCT7pUzBmtmB48)
+
+*By Train:* 
+
+Chandigarh and Mohali are connected to many major cities in India by train.  There are many fast trains between Delhi and Chandigarh.  You will arrive at the Chandigarh railway station (13 kms from IISER Mohali).
+
+Route Map from Chandigarh station: (https://maps.app.goo.gl/KDCifr7VSm7qT2vn7?g_st=ac)
+
+*By Road:* 
+
+There is excellent bus connectivity to nearby towns, including direct buses from the IGI Airport, New Delhi.   Taxis are also available and are reasonably convenient.
+
+Within the Chandigarh-Mohali region, many options including taxis are available.  App based cabs like Uber are the easiest option if you have access to a smartphone.  Taxis from the airport and railway station can be booked at counters as well. 
+
+In case of any difficulty, please contact one of the following:
+
+1. Jasjeet Singh Bagla:    +91 9357760424  jasjeet@iisermohali.ac.in
+
+2. Harvinder Kaur Jassal:  +91 9357754427  hkjassal@iisermohali.ac.in
+
 **Accommodation options:**
-*This will be updated with more details*
 
 LOC Contact Email ID : astro@iisermohali.ac.in
 
