@@ -14,9 +14,15 @@ sidebar:
 
 *IISER Mohali, India*
 
+![CHAICA6 Banner](/assets/images/chaica-vi.png)
+
 **Rationale:**
 
 This is the 6th edition of the ChaICA series of meetings on computational astrophysics organised by IAU Commission B1: Computational Astrophysics. The meeting provides a forum especially for early-career researchers to present to their peers their work on computational algorithms, methods and new software projects. The talks can be a mix of both numerical methods and scientific results, but the focus of the meeting is on the computational and programming aspects. It is less formal than a scientific symposium, and so presentations on work-in-progress that does not yet have any scientific application/results are warmly welcomed.
+
+**Schedule**
+
+The schedule for CHAICA-6 can be found [here](https://docs.google.com/spreadsheets/d/1eqNkuAzlY0rVau8q0n9H8SxkGAe5RSFF-7UF2D3JLlg/edit?gid=0#gid=0)
 
 **Topics to be covered:**
 
