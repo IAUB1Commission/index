@@ -6,9 +6,11 @@ sidebar:
   nav: "main"  # This enables the sidebar for this page
 ---
 
-# Challenges and Innovations in Computational Astrophysics IV
+Challenges and Innovations in Computational Astrophysics IV
+-------------------------------------------------------------------
 
-## A Virtual Meeting covering all areas of Computational Astrophysics*
+A Virtual Meeting covering all areas of Computational Astrophysics
+===================================================================
 
 **21-23 November 2022**
 
