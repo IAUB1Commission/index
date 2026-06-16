@@ -55,7 +55,7 @@ Programme
 
 |Session|Date|Time (UTC)|Time (EST)|Time (JST)|Speakers|
 |--- |--- |--- |--- |--- |--- |
-|1|21 Nov 2022|08:00|03:00|17:00|Christian Boily (welcome), Yamazaki,  Soichiro Sharma, Ranbir Qiu, Yu Keppens, Rony Sarkar, Biplob Zhu, Bojing|
+|1|21 Nov 2022|08:00|03:00|17:00|Christian Boily (welcome); Soichiro Yamazaki; Ranbir Sharma, Yu Qiu, Rony Keppens, Biplob Sarkar, Bojing Zhu |
 |2|21 Nov 2022|13:00|08:00|22:00|Asano, Tetsuro, Hartwig, Tilman, Hirashima, Keiya, Aguirre-Santaella, Alejandra, Mondal, Debasish, Hu, Haojie,|
 |3|21 Nov 2022|20:00|15:00|05:00 +1d|Feldman, Catherine, Vallés-Pérez, David, Das, Apashanka, Grete, Philipp, Rosen, Anna (invited)|
 |4|22 Nov 2022|08:00|03:00|17:00|Bacchini, Fabio, Nowak, Katarzyna, Mencagli, Mattia, Mayank, Prateek, Beitia-Antero, Leire, Katsianis, Antonios|
