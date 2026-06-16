@@ -55,14 +55,14 @@ Programme
 
 |Session|Date|Time (UTC)|Time (EST)|Time (JST)|Speakers|
 |--- |--- |--- |--- |--- |--- |
-|1|21 Nov 2022|08:00|03:00|17:00|Christian Boily (welcome); Soichiro Yamazaki; Ranbir Sharma, Yu Qiu, Rony Keppens, Biplob Sarkar, Bojing Zhu |
-|2|21 Nov 2022|13:00|08:00|22:00|Asano, Tetsuro, Hartwig, Tilman, Hirashima, Keiya, Aguirre-Santaella, Alejandra, Mondal, Debasish, Hu, Haojie,|
-|3|21 Nov 2022|20:00|15:00|05:00 +1d|Feldman, Catherine, Vallés-Pérez, David, Das, Apashanka, Grete, Philipp, Rosen, Anna (invited)|
-|4|22 Nov 2022|08:00|03:00|17:00|Bacchini, Fabio, Nowak, Katarzyna, Mencagli, Mattia, Mayank, Prateek, Beitia-Antero, Leire, Katsianis, Antonios|
-|5|22 Nov 2022|13:00|08:00|22:00|Nishimichi, Takahiro (invited), Hozumi, Shunsuke, Kondratyev, Ilya, Grieger, Björn, Achikanath, Chirakkara|
-|6|22 Nov 2022|20:00|15:00|05:00 +1d|Hastings, Ben, Vorobyov,  Eduard, Mukherjee, Diptajyoti, Shematovich, Valery, de Avillez, Miguel, Lombart, Maxime|
-|7|23 Nov 2022|08:00|03:00|17:00|Wünsch, Richard (invited), Dihingia, Indu Kalpa, Calder, Alan, Teissier, Jean-Mathieu, Leidi, Giovanni|
-|8|23 Nov 2022|13:00|08:00|22:00|Shin-Rong, Tsai, Smith Clark, Alexander, Boyd,  Brendan, Brose, Robert, Kulikov, Igor, Discussion, Christian Boily|
+|1|21 Nov 2022|08:00|03:00|17:00|Christian Boily (welcome); Soichiro Yamazaki; Ranbir Sharma; Yu Qiu; Rony Keppens; Biplob Sarkar; Bojing Zhu |
+|2|21 Nov 2022|13:00|08:00|22:00| Tetsuro Asano, Tilman Hartwig, Keiya Hirashima, Alejandra Aguirre-Santaella, Debasish Mondal, Haojie Hu |
+|3|21 Nov 2022|20:00|15:00|05:00 +1d| Catherine Feldman, David Vallés-Pérez, Apashanka Das, Philipp Grete, Anna Rosen (invited) |
+|4|22 Nov 2022|08:00|03:00|17:00| Fabio Bacchini, Katarzyna Nowak, Mattia Mencagli, Prateek Mayank, Leire Beitia-Antero, Antonios Katsianis |
+|5|22 Nov 2022|13:00|08:00|22:00| Takahiro Nishimichi (invited), Shunsuke Hozumi, Ilya Kondratyev, Björn Grieger, Chirakkara Achikanath |
+|6|22 Nov 2022|20:00|15:00|05:00 +1d| Ben Hastings, Eduard Vorobyov, Diptajyoti Mukherjee, Valery Shematovich, Miguel de Avillez, Maxime Lombart |
+|7|23 Nov 2022|08:00|03:00|17:00| Richard Wünsch (invited), Indu Kalpa Dihingia,,  Alan Calder, Jean-Mathieu Teissier, Giovanni Leidi |
+|8|23 Nov 2022|13:00|08:00|22:00| Tsai Shin-Rong, Alexander Smith Clark, Brendan Boyd, Robert Brose, Igor Kulikov, *Discussion*, Christian Boily|
 
 
 Participants
