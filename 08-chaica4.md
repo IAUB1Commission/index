@@ -37,8 +37,8 @@ It will be less formal than a scientific symposium, and so presentations on work
 
 Previous [meetings of IAU Commission B1](https://www.iau.org/science/scientific_bodies/commissions/B1/info/meetings/) in this series:
 + [ChaICA I 2019](http://agora.guru.ru/display.php?conf=comp-astrophys-2019) 
-+ [ChaICA II 2020](https://cb1-chaica2020.astro.unistra.fr/Programme.html) 
-+ [ChaICA III 2021](http://www.icehap.chiba-u.jp/IAU_B1/chaica2021/chaica3pdf.html)
++ [ChaICA II 2020](https://cb1-chaica2020.astro.unistra.fr/Programme.html) [dead link]
++ [ChaICA III 2021](http://www.icehap.chiba-u.jp/IAU_B1/chaica2021/chaica3pdf.html) [dead link]
 
 Important Dates
 -------------------------------------------------------------------
@@ -55,7 +55,7 @@ Programme
 
 |Session|Date|Time (UTC)|Time (EST)|Time (JST)|Speakers|
 |--- |--- |--- |--- |--- |--- |
-|1|21 Nov 2022|08:00|03:00|17:00|Christian Boily (welcome); Soichiro Yamazaki; Ranbir Sharma; Yu Qiu; Rony Keppens; Biplob Sarkar; Bojing Zhu |
+|1|21 Nov 2022|08:00|03:00|17:00|Christian Boily (welcome), Soichiro Yamazaki, Ranbir Sharma, Yu Qiu, Rony Keppens, Biplob Sarkar, Bojing Zhu |
 |2|21 Nov 2022|13:00|08:00|22:00| Tetsuro Asano, Tilman Hartwig, Keiya Hirashima, Alejandra Aguirre-Santaella, Debasish Mondal, Haojie Hu |
 |3|21 Nov 2022|20:00|15:00|05:00 +1d| Catherine Feldman, David Vallés-Pérez, Apashanka Das, Philipp Grete, Anna Rosen (invited) |
 |4|22 Nov 2022|08:00|03:00|17:00| Fabio Bacchini, Katarzyna Nowak, Mattia Mencagli, Prateek Mayank, Leire Beitia-Antero, Antonios Katsianis |
@@ -203,7 +203,7 @@ Organising committee
 Code of Conduct
 -------------------------------------------------------------------
 
-The organisers aim for a lively and enjoyable meeting for all participants, where everyone is treated with respect.  All particants agree to follow the [IAU code of conduct for meetings](https://www.iau.org/static/archives/announcements/pdf/ann16007a.pdf).  Please read this if you are not already familiar with its contents.
+The organisers aim for a lively and enjoyable meeting for all participants, where everyone is treated with respect.  All particants agree to follow the [IAU code of conduct for meetings](https://www.iau.org/Iau/About/Statutes---Rules/Code-of-Conduct.aspx).  Please read this if you are not already familiar with its contents.
 
 
 Contact Information
