@@ -22,10 +22,10 @@ This is an archival copy of the meeting webpage at [dias.ie/chaica4](https://dia
 The [programme is now available to download](/assets/images/ChaICAIV_Program.pdf).
 
 
-      This is the 4th edition of the ChaICA series of meetings on computational astrophysics organised by [IAU Commission B1: Computational Astrophysics](https://www.iau.org/science/scientific_bodies/commissions/B1/).
-      The meeting provides a forum especially for early-career researchers to present to their peers their work on computational algorithms, methods and new software projects.
-      The talks can be a mix of both numerical methods and scientific results, but the focus of the meeting is on the computational and programming aspects.
-      It will be less formal than a scientific symposium, and so presentations on work-in-progress that does not yet have any scientific application/results are warmly welcomed.
+This is the 4th edition of the ChaICA series of meetings on computational astrophysics organised by [IAU Commission B1: Computational Astrophysics](https://www.iau.org/science/scientific_bodies/commissions/B1/).
+The meeting provides a forum especially for early-career researchers to present to their peers their work on computational algorithms, methods and new software projects.
+The talks can be a mix of both numerical methods and scientific results, but the focus of the meeting is on the computational and programming aspects.
+It will be less formal than a scientific symposium, and so presentations on work-in-progress that does not yet have any scientific application/results are warmly welcomed.
 
 + The meeting is open to everyone but (free) registration is required using a google form.
 + The [programme is now available to download](/assets/images/ChaICAIV_Program.pdf)!
