@@ -51,7 +51,58 @@ Important Dates
 Programme
 -------------------------------------------------------------------
 
-**Invited Speakers**
+**Invited Speakers**: Day 1: Anna Rosen, Day 2: Nishimichi Takahiro, Day 3: Richard Wünsch
+
+|Session|Date|Time (UTC)|Time (EST)|Time (JST)|Speakers|
+|--- |--- |--- |--- |--- |--- |
+|1|21 Nov 2022|08:00|03:00|17:00|Christian Boily (welcome),
+            Yamazaki,  Soichiro
+            Sharma, Ranbir
+            Qiu, Yu
+            Keppens, Rony
+            Sarkar, Biplob
+            Zhu, Bojing|
+|2|21 Nov 2022|13:00|08:00|22:00|Asano, Tetsuro,
+Hartwig, Tilman,
+Hirashima, Keiya,
+Aguirre-Santaella, Alejandra,
+Mondal, Debasish,
+Hu, Haojie,|
+|3|21 Nov 2022|20:00|15:00|05:00 +1d|Feldman, Catherine,
+Vallés-Pérez, David,
+Das, Apashanka,
+Grete, Philipp,
+Rosen, Anna (invited)|
+|4|22 Nov 2022|08:00|03:00|17:00|Bacchini, Fabio,
+Nowak, Katarzyna,
+Mencagli, Mattia,
+Mayank, Prateek,
+Beitia-Antero, Leire,
+Katsianis, Antonios|
+|5|22 Nov 2022|13:00|08:00|22:00|Nishimichi, Takahiro (invited),
+Hozumi, Shunsuke,
+Kondratyev, Ilya,
+Grieger, Björn,
+Achikanath, Chirakkara|
+|6|22 Nov 2022|20:00|15:00|05:00 +1d|Hastings, Ben,
+Vorobyov,  Eduard,
+Mukherjee, Diptajyoti,
+Shematovich, Valery,
+de Avillez, Miguel,
+Lombart, Maxime|
+|7|23 Nov 2022|08:00|03:00|17:00|Wünsch, Richard (invited),
+Dihingia, Indu Kalpa,
+Calder, Alan,
+Teissier, Jean-Mathieu,
+Leidi, Giovanni|
+|8|23 Nov 2022|13:00|08:00|22:00|Shin-Rong, Tsai,
+Smith Clark, Alexander,
+Boyd,  Brendan,
+Brose, Robert,
+Kulikov, Igor,
+Discussion,
+Christian Boily|
+
 
 Participants
 -------------------------------------------------------------------
