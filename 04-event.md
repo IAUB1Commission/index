@@ -10,8 +10,8 @@ sidebar:
 
 # Upcoming Events 
 
-1. <mark>NEW!</mark> *September 29 - October 2, 2025*  
-**Challenges and Innovations in Computational Astrophysics [ChaICA - VI]** [Details Here]({{ site.baseurl }}/chaica6)
+1. <mark>NEW</mark> *August 10-12, 2027*
+**IAU GA Symposium 415 : Computational Horizons in Astrophysics - Bridging Theory, Data, and Discovery** [IAU GA 2027]
 
 
 # IAU Symposia / Focus Meeting
@@ -24,20 +24,23 @@ sidebar:
 
 # IAU B1 Hosted Meetings
 
-1. *7-9 November 2023* 
+1. *September 29 - October 2, 2025*  
+**Challenges and Innovations in Computational Astrophysics [ChaICA - VI]** [Details Here]({{ site.baseurl }}/chaica6)
+
+2. *7-9 November 2023* 
 **Challenges and Innovations in Computational Astrophysics - V (ChaICA - V)** [ChaICA-5](https://dias.ie/chaica5/)
 
-2. *21-23 November 2022* 
+3. *21-23 November 2022* 
 **Challenges and Innovations in Computational Astrophysics - IV (ChaICA - IV)**[ChaiCA-4](https://dias.ie/chaica4/)
 
-3. *June, 17th, 18th, and 21st, 2021 (13h-16h UTC each day)* 
+4. *June, 17th, 18th, and 21st, 2021 (13h-16h UTC each day)* 
 **Challenges and Innovations in Computational Astrophysics - III (ChaICA - III)**
 
-4. *18-21 November 2020*  
+5. *18-21 November 2020*  
 **Challenges and Innovations in Computational Astrophysics - II (ChaICA - II)**
 
-5. *10-11 October 2019*  
+6. *10-11 October 2019*  
 **Second Workshop on Numerical Modeling in MHD and Plasma Physics Moscow, Russia**
 
-6. *16-21 September 2019* 
+7. *16-21 September 2019* 
 **INTERNATIONAL SCIENTIFIC CONFERENCE Saint Petersburg, Russian Federation**

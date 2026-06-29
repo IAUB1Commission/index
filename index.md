@@ -9,5 +9,5 @@ Credit: [Michiko Fujii, Takaaki Takeda; Fujii et. al. 2024](https://ui.adsabs.ha
 
 
 
-**Upcoming Event [NEW] - ChaICA-6 Meeting** [Details Here]({{ site.baseurl }}/chaica6)
+**Upcoming Event [NEW] - IAU Symposium 415** [Details Here]({{ site.baseurl }}/iaus415)
 
