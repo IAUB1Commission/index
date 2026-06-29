@@ -10,8 +10,9 @@ sidebar:
 
 # Upcoming Events 
 
-1. <mark>NEW</mark> *August 10-12, 2027*
-**IAU GA Symposium 415 : Computational Horizons in Astrophysics - Bridging Theory, Data, and Discovery** [IAU GA 2027]
+1. <mark>NEW</mark>  
+*August 10-12, 2027*
+**IAU GA Symposium 415 : Computational Horizons in Astrophysics - Bridging Theory, Data, and Discovery** [IAU GA 2027]({{ site.baseurl }}/iaus415)
 
 
 # IAU Symposia / Focus Meeting
