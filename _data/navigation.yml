@@ -11,8 +11,8 @@ main:
     url: /events/
   - title: "Resources"
     url: /resources/
-  - title: "ChaICA-6"
-    url: /chaica6/
+  - title: "IAUS 415"
+    url: /iaus415/
   - title: "FAQs"
     url: /faqs/
 
