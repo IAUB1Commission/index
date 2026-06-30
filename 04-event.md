@@ -32,7 +32,7 @@ sidebar:
 **Challenges and Innovations in Computational Astrophysics - V (ChaICA - V)** [ChaICA-5](https://dias.ie/chaica5/)
 
 3. *21-23 November 2022* 
-**Challenges and Innovations in Computational Astrophysics - IV (ChaICA - IV)**[ChaiCA-4](https://dias.ie/chaica4/)
+**Challenges and Innovations in Computational Astrophysics - IV (ChaICA - IV)**[ChaICA-4](https://dias.ie/chaica4/) [ChaICA-4]({{ site.baseurl }}/chaica4)
 
 4. *June, 17th, 18th, and 21st, 2021 (13h-16h UTC each day)* 
 **Challenges and Innovations in Computational Astrophysics - III (ChaICA - III)**
