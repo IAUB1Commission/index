@@ -15,7 +15,7 @@ sidebar:
 **IAU Symposium 415 (GA 2027) : Computational Horizons in Astrophysics - Bridging Theory, Data, and Discovery** [IAUS415]({{ site.baseurl }}/iaus415)
 
 
-# IAU Symposia / Focus Meeting
+# Previous IAU Symposia / Focus Meetings
 
 1. *August 6 - 8, 2024*
 **IAU GA 2024 Focus Meeting : New Horizons at the Interface between Computational Astrophysics and Big Data**
@@ -23,7 +23,7 @@ sidebar:
 2. *November 8 -12, 2021*
 **IAUS 362 : Predictive Power of Computational Astrophysics as a Discovery Tool** 
 
-# IAU B1 Hosted Meetings
+# Previous IAU B1 Hosted Meetings
 
 1. *September 29 - October 2, 2025*  
 **Challenges and Innovations in Computational Astrophysics [ChaICA - VI]** [ChaICA-6]({{ site.baseurl }}/chaica6)
