@@ -80,7 +80,7 @@ Maria del Valle
 
 August 15, 2026 : *Registration Opens*
 
-October 01, 2026 : *Abstract Submission Deadline*
+October 07, 2026 : *Abstract Submission Deadline*
 
 October 17, 2026 : *Selection of Abstracts and Announcement of Schedule*
 
