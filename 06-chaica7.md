@@ -58,24 +58,25 @@ The detailed schedule for CHAICA-7 will be updated here.
 
 **Invited Speakers**
 
-Ashish Mahabal
+Ashish Mahabal [Center for Data Driven Discovery, Caltech US]
+ 
+Francisco Villaescusa-Navarro [Flatiron Institute, Simons Foundation, New York, US]
 
-Francisco Villaescusa-Navarro
+Jessica Doppel [University of Durham, UK]
 
-Jessica Doppel
+Hajime Fukushima [University of Tsukuba, Japan]
 
-Hajime Fukushima
+Claude Cournoyer-Cloutier [Max Planck Institute for Astrophysics, Germany]
 
-Claude Cournoyer-Cloutier
+Sophie Rosu [University of Liège, Switzerland]
 
-Sophie Rosu
+Max Gronke [Max Planck Institute for Astrophysics, Germany]
 
-Max Gronke
+Maria Victoria del Valle [Universidade de São Paulo (IAG USP), Brazil]
 
-Maria del Valle
+Arif Babul [University of Victoria, Canada] 
 
 **Important Dates:**
-
 
 
 August 15, 2026 : *Registration Opens*
@@ -86,10 +87,8 @@ October 17, 2026 : *Selection of Abstracts and Announcement of Schedule*
 
 
 **Registration:**
-<mark>NEW</mark>
 
 The registration can be done [here](https://forms.gle/uh51eus1Y2x2Pzf98)
-
 
 
 **Scientific Organizing Committee**
