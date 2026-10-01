@@ -20,7 +20,7 @@ This is the 7th edition of the ChaICA series of meetings on computational astrop
 
 **Schedule**
 
-The 3-day hybrid workshop will have 3 sessions 
+The 3-day virtual workshop will have 3 sessions 
 per day to cover the different time zones. 
 These sessions are listed below: 
 
