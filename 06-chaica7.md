@@ -70,7 +70,7 @@ Claude Cournoyer-Cloutier [Max Planck Institute for Astrophysics, Germany]
 
 Sophie Rosu [University of Liège, Switzerland]
 
-Max Gronke [Max Planck Institute for Astrophysics, Germany]
+Max Gronke [Heidelberg University, Germany]
 
 Maria Victoria del Valle [Universidade de São Paulo (IAG USP), Brazil]
 
