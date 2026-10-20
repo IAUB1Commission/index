@@ -20,25 +20,7 @@ This is the 7th edition of the ChaICA series of meetings on computational astrop
 
 **Schedule**
 
-The 3-day virtual workshop will have 3 sessions 
-per day to cover the different time zones. 
-These sessions are listed below: 
-
-| Date | Session | Time |
-| :--- | :---: | ---: |
-| Nov 17th | Session 1 | 8:00 -10:00 UTC |
-| Nov 17th | Session 2 | 13:00-15:00 UTC |
-| Nov 17th | Session 3 | 20:00-22:00 UTC |
-| Nov 18th | Session 1 | 8:00-10:00 UTC |
-| Nov 18th | Session 2 | 13:00-15:00 UTC |
-| Nov 18th | Session 3 | 20:00-22:00 UTC |
-| Nov 19th | Session 1 | 8:00-10:00 UTC |
-| Nov 19th | Session 2 | 13:00-15:00 UTC |
-| Nov 19th | Session 3 | 20:00-22:00 UTC |
-
-
-
-The detailed schedule for CHAICA-7 will be updated here.
+The detailed schedule for ChaICA-7 is [here](https://docs.google.com/spreadsheets/d/18kjhtslFSM4RcQqaWzcyNu3G6D7NUrC-4G_4BEPrlxw/edit?usp=sharing)
 
 **Topics to be covered:**
 
