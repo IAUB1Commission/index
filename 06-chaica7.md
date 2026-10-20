@@ -67,12 +67,15 @@ October 07, 2026 : *Abstract Submission CLOSED*
 
 October 17, 2026 : *Selection of Abstracts and Announcement of Schedule*
 
+November 13, 2026 : *Registration closing*
+
 
 **Registration:**
 
 The abstract submission is **closed**.
 However, registration to participate in the meeting can still be done 
-[here](https://forms.gle/uh51eus1Y2x2Pzf98)
+[here](https://forms.gle/uh51eus1Y2x2Pzf98) 
+
 
 
 **Scientific Organizing Committee**
