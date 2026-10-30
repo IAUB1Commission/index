@@ -10,14 +10,10 @@ sidebar:
 
 *An Online Meeting covering all areas of Computational Astrophysics*
 
-**November 17 - November 19, 2026**
-
-*Online (Zoom)*
 
 - **When:** November 17–19, 2026, online via Zoom
-- **What:** Early-career researchers presenting computational methods and software, including work in progress ([rationale](#rationale))
-- **Schedule:** [Detailed programme](https://docs.google.com/spreadsheets/d/18kjhtslFSM4RcQqaWzcyNu3G6D7NUrC-4G_4BEPrlxw/edit?usp=sharing) ([more](#schedule))
-- **Topics:** Seven themes, from AI/ML-aided simulations to GPU codes ([full list](#topics))
+- **What:** Early-career researchers presenting computational methods, software and scientific results ([rationale](#rationale), [topics](#topics))
+- **Schedule:** [Programme (PDF)](/assets/images/ChaICA7_Program.pdf) ([detailed schedule](#schedule))
 - **Invited speakers:** Nine invited talks ([see speakers](#invited-speakers))
 - **Registration:** Open until November 13, 2026; abstract submission is closed ([register](#registration), [key dates](#important-dates))
 - **Organisers:** IAU Commission B1: Computational Astrophysics ([SOC](#soc))
@@ -26,9 +22,25 @@ sidebar:
 
 This is the 7th edition of the ChaICA series of meetings on computational astrophysics organised by IAU Commission B1: Computational Astrophysics. The meeting provides a forum especially for early-career researchers to present to their peers their work on computational algorithms, methods and new software projects. The talks can be a mix of both numerical methods and scientific results, but the focus of the meeting is on the computational and programming aspects. It is less formal than a scientific symposium, and so presentations on work-in-progress that does not yet have any scientific application/results are warmly welcomed.
 
+## Topics to be covered {#topics}
+
+1. Data Management & Mock Catalogs
+
+2. AI/ML Aided Simulations 
+
+3. Astrophysical Codes in the Era of GPU
+
+4. Cosmological codes with Subgrid Models 
+
+5. Multi-scale simulations
+
+6. Advances in Stellar Evolution codes
+
+7. Particle Simulations and Kinetic Plasma codes.
+
 ## Schedule {#schedule}
 
-The detailed schedule for ChaICA-7 is [here](https://docs.google.com/spreadsheets/d/18kjhtslFSM4RcQqaWzcyNu3G6D7NUrC-4G_4BEPrlxw/edit?usp=sharing)
+The detailed schedule for ChaICA-7 is available to [download as a PDF](/assets/images/ChaICA7_Program.pdf).
 
 All times are in UTC. Invited speakers are shown in **bold**.
 
@@ -93,21 +105,6 @@ All times are in UTC. Invited speakers are shown in **bold**.
 | 14:30–14:50 | Bharti Kaushik | Primordial black hole |
 | 14:50–15:20 | **Arif Babul** | Modeling the Emergence of the CGM and the Multiphase Structure therein |
 
-## Topics to be covered {#topics}
-
-1. Data Management & Mock Catalogs
-
-2. AI/ML Aided Simulations 
-
-3. Astrophysical Codes in the Era of GPU
-
-4. Cosmological codes with Subgrid Models 
-
-5. Multi-scale simulations
-
-6. Advances in Stellar Evolution codes
-
-7. Particle Simulations and Kinetic Plasma codes.
 
 ## Invited Speakers {#invited-speakers}
 
