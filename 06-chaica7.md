@@ -10,8 +10,8 @@ sidebar:
 
 *An Online Meeting covering all areas of Computational Astrophysics*
 
+**November 17–19, 2026** *online via Zoom*
 
-- **When:** November 17–19, 2026, online via Zoom
 - **What:** Early-career researchers presenting computational methods, software and scientific results ([rationale](#rationale), [topics](#topics))
 - **Schedule:** [Programme (PDF)](/assets/images/ChaICA7_Program.pdf) ([detailed schedule](#schedule))
 - **Invited speakers:** Nine invited talks ([see speakers](#invited-speakers))
