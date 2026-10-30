@@ -56,7 +56,7 @@ All times are in UTC. Invited speakers are shown in **bold**.
 | 9:30–9:50 | Natalya Kargaltseva | Numerical Modeling of the Initial Stages of Star Formation Using the 2D MHD code Enlil |
 | 9:50–10:10 | C V Sreejith | Simulating Radio Protostellar Jets |
 | **Session 2** | **13:00–15:00** | |
-| 13:00–13:30 | **Sophie Rosu** | TBD |
+| 13:00–13:30 | **Sophie Rosu** | The Beauty of k2: Probing the interiors of massive binary stars using apsidal motion |
 | 13:30–13:50 | Aleena Sheikh | Burstspec: a vectorised JAX pipeline for time-resolved spectroscopy of thermonuclear X-ray bursts in NICER data |
 | 13:50–14:10 | Sathya Margerate | Testing the Reliability of Nonlinear Recurrence Analysis under Gaps in TESS Light Curves |
 | 14:10–14:40 | **Maria del Valle** | Astrophysical modelling of shocks |
