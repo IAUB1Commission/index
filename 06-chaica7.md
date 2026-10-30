@@ -40,7 +40,7 @@ This is the 7th edition of the ChaICA series of meetings on computational astrop
 
 ## Schedule {#schedule}
 
-The detailed schedule for ChaICA-7 is available to [download as a PDF](/assets/images/ChaICA7_Program.pdf).
+The detailed schedule for ChaICA-7 is available to [download as a PDF](/assets/images/ChaICA7_Program.pdf) and on [google sheets](https://docs.google.com/spreadsheets/d/18kjhtslFSM4RcQqaWzcyNu3G6D7NUrC-4G_4BEPrlxw/edit?usp=sharing).
 
 All times are in UTC. Invited speakers are shown in **bold**.
 
