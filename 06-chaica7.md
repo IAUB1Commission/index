@@ -92,11 +92,11 @@ All times are in UTC. Invited speakers are shown in **bold**.
 |---|---|---|
 | **Session 1** | **8:00–10:00** | |
 | 8:00–8:30 | **Jessica Doppel** | Investigating star clusters and tiny galaxies at cosmic dawn with LYRA |
-| 8:00–8:30 | Jeremy Karam | Conversions of Grid to Particle Representations for Numerical Simulations |
-| 8:30–8:50 | Yuka Kaneda | Dynamical traces on stellar streams by dark matter subhalos fly-by |
-| 8:50–9:10 | Atul Ashutosh Samanta | Developing Numerical Methods for Fuzzy Dark Matter in Isolated Galaxy Simulations |
-| 9:10–9:30 | Jayesh Saraswat | A Novel Game-Theoretic Particle-Assignment Algorithm for Subhalo Identification |
-| 9:30–9:50 | Tomáš Šoltinský | Precision modelling of the Lyα forest 3D power spectrum from linear to highly non-linear scales |
+| 8:30–8:50 | Jeremy Karam | Conversions of Grid to Particle Representations for Numerical Simulations |
+| 8:50–9:10 | Yuka Kaneda | Dynamical traces on stellar streams by dark matter subhalos fly-by |
+| 9:10–9:30 | Atul Ashutosh Samanta | Developing Numerical Methods for Fuzzy Dark Matter in Isolated Galaxy Simulations |
+| 9:30–9:50 | Jayesh Saraswat | A Novel Game-Theoretic Particle-Assignment Algorithm for Subhalo Identification |
+| 9:50–10:10 | Tomáš Šoltinský | Precision modelling of the Lyα forest 3D power spectrum from linear to highly non-linear scales |
 | **Session 2** | **13:00–15:30** | |
 | 13:00–13:30 | **Claude Cournoyer-Cloutier** | Modelling binary stars in young star clusters: dynamics, feedback, and numerical challenges |
 | 13:30–13:50 | Tomomune Nishino | Binary black holes from clumpy globular clusters: simulating sub-virial collapse with PeTar |
