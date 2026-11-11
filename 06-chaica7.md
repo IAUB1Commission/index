@@ -118,7 +118,7 @@ Hajime Fukushima [University of Tsukuba, Japan]
 
 Claude Cournoyer-Cloutier [Max Planck Institute for Astrophysics, Germany]
 
-Sophie Rosu [University of Liège, Switzerland]
+Sophie Rosu [Université Libre de Bruxelles, Belgium]
 
 Max Gronke [Heidelberg University, Germany]
 
