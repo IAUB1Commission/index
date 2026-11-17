@@ -17,6 +17,7 @@ sidebar:
 - **Invited speakers:** Nine invited talks ([see speakers](#invited-speakers))
 - **Registration:** Open until November 13, 2026; abstract submission is closed ([register](#registration), [key dates](#important-dates))
 - **Organisers:** IAU Commission B1: Computational Astrophysics ([SOC](#soc))
+- **Online Zoom Links:** Registered participants who have not received yet any announcements with Zoom links can get in touch with us [iau.commission.b1@gmail.com](mailto:iau.commission.b1@gmail.com)
 
 ## Rationale {#rationale}
 
