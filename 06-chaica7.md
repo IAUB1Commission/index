@@ -56,12 +56,10 @@ All times are in UTC. Invited speakers are shown in **bold**.
 | 9:10–9:30 | Toushif Alam | Can Sgr A\* Feedback Shape the Eccentric Galactic Centre Molecular Zone? |
 | 9:30–9:50 | Natalya Kargaltseva | Numerical Modeling of the Initial Stages of Star Formation Using the 2D MHD code Enlil |
 | 9:50–10:10 | C V Sreejith | Simulating Radio Protostellar Jets |
-| **Session 2** | **13:00–15:00** | |
+| **Session 2** | **13:00–14:10** | |
 | 13:00–13:30 | **Sophie Rosu** | The Beauty of k2: Probing the interiors of massive binary stars using apsidal motion |
 | 13:30–13:50 | Aleena Sheikh | Burstspec: a vectorised JAX pipeline for time-resolved spectroscopy of thermonuclear X-ray bursts in NICER data |
-| 13:50–14:10 | Sathya Margerate | Testing the Reliability of Nonlinear Recurrence Analysis under Gaps in TESS Light Curves |
-| 14:10–14:40 | **Maria del Valle** | Astrophysical modelling of shocks |
-| 14:40–15:00 | Ilyas Sultanov | Study of the magnetic field evolution in molecular filament cores with the FLASH code |
+| 13:50–14:10 | Ilyas Sultanov | Study of the magnetic field evolution in molecular filament cores with the FLASH code |
 | **Session 3** | **20:00–22:00** | |
 | 20:00–20:30 | **Francisco Villaescusa-Navarro** | Will the next revolution in astrophysics be driven by AI-agents? |
 | 20:30–20:50 | Piotr Marciniak | CMC-ML |
@@ -73,19 +71,19 @@ All times are in UTC. Invited speakers are shown in **bold**.
 
 | Time (UTC) | Speaker | Title |
 |---|---|---|
-| **Session 1** | **8:00–10:15** | |
+| **Session 1** | **8:00–09:50** | |
 | 8:00–8:30 | **Ashish Mahabal** | Applying ML Techniques to Astronomical Transient Datasets |
 | 8:30–8:50 | Marco Bischoff | A Scalable TNO Classifier for Evaluating Solar System Formation Models |
 | 8:50–9:10 | Asish Jyoti Boruah | Dissipative Transonic Accretion Flows around Rapidly Rotating Black Holes |
 | 9:10–9:30 | Liza Devi | Shock-Free Global Transonic Accretion Flows in Conical Geometry around black holes |
-| 9:30–9:50 | Ivan Almeida | Simulating AGN Jet–Cloud Interactions: From Relativistic MHD to Synthetic Synchrotron Emission |
-| 9:50–10:10 | Biplob Sarkar | Computational Modeling of Magnetized Accretion Flows: Shocks, Dissipation, and Observational Signatures in Black Hole Systems |
-| **Session 2** | **13:00–15:00** | |
+| 9:30–09:50 | Biplob Sarkar | Computational Modeling of Magnetized Accretion Flows: Shocks, Dissipation, and Observational Signatures in Black Hole Systems |
+| **Session 2** | **13:00–15:10** | |
 | 13:00–13:30 | **Hajime Fukushima** | SFUMATO#: a GPU-accelerated code for Self-Gravitational Radiation Hydrodynamics Simulation with AMR |
 | 13:30–13:50 | Olaf Willocx | Adaptive mesh refinement on GPUs at scale with AGILE |
 | 13:50–14:10 | Francesco Maria Flammini Dotti | Nbody6++GPU-ML: a new frontier for the study of free-floating planets, comets and small brown dwarfs |
 | 14:10–14:30 | Gexian Chen | Overcoming CPU Bottlenecks in N-body Simulations: Integrating the Bonsai Treecode into PeTar |
 | 14:30–14:50 | Zhifeng Guo | Enforcing Time-Symmetric Steps in the Hermite Integrator to Reduce Secular Eccentricity Drift in Binary Orbits |
+| 14:50–15:10 | Sathya Margerate | Testing the Reliability of Nonlinear Recurrence Analysis under Gaps in TESS Light Curves |
 
 ### Thursday 19th Nov
 
@@ -98,13 +96,14 @@ All times are in UTC. Invited speakers are shown in **bold**.
 | 9:10–9:30 | Atul Ashutosh Samanta | Developing Numerical Methods for Fuzzy Dark Matter in Isolated Galaxy Simulations |
 | 9:30–9:50 | Jayesh Saraswat | A Novel Game-Theoretic Particle-Assignment Algorithm for Subhalo Identification |
 | 9:50–10:10 | Tomáš Šoltinský | Precision modelling of the Lyα forest 3D power spectrum from linear to highly non-linear scales |
-| **Session 2** | **13:00–15:30** | |
+| **Session 2** | **13:00–15:50** | |
 | 13:00–13:30 | **Claude Cournoyer-Cloutier** | Modelling binary stars in young star clusters: dynamics, feedback, and numerical challenges |
 | 13:30–13:50 | Tomomune Nishino | Binary black holes from clumpy globular clusters: simulating sub-virial collapse with PeTar |
 | 13:50–14:10 | Long Wang | BTLogH: Improved algorithmic regularization for simulating few-body stellar systems |
 | 14:10–14:30 | Naoto Harada | Dynamical Evolution of Primordial Binaries during Star Cluster Formation |
 | 14:30–14:50 | Bharti Kaushik | Primordial black hole |
 | 14:50–15:20 | **Arif Babul** | Modeling the Emergence of the CGM and the Multiphase Structure therein |
+| 15:20–15:50 | **Maria del Valle** | Astrophysical modelling of shocks |
 
 
 ## Invited Speakers {#invited-speakers}
